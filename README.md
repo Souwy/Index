@@ -3,7 +3,7 @@ Repository that links to everything
 
 ## Exercises
 
-# Projects
+## Projects
 
 ## Porfolio
 
