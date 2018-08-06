@@ -6,3 +6,9 @@ Repository that links to everything
 #Projects
 
 ##Porfolio
+
+##Notes
+
+##JS-references
+
+##Vocabylary https://github.com/Souwy/vocabulary/tree/master
