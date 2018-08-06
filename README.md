@@ -1,14 +1,14 @@
 # Index
 Repository that links to everything
 
-## Exercises
+## [Exercises](https://github.com/Souwy/exercises/tree/master)
 
-## Projects
+## [Projects](https://github.com/Souwy/projects/tree/master)
 
-## Porfolio
+## [Porfolio](https://github.com/Souwy/portfolio/tree/master)
 
-## Notes
+## [Notes](https://github.com/Souwy/notes/tree/master)
 
-## JS-references
+## [JS-references](https://github.com/Souwy/js-references/tree/master)
 
 ## [Vocabulary](https://github.com/Souwy/vocabulary/tree/master)
