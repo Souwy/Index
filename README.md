@@ -11,4 +11,4 @@ Repository that links to everything
 
 ##JS-references
 
-##Vocabylary https://github.com/Souwy/vocabulary/tree/master
+##(Vocabulary) [https://github.com/Souwy/vocabulary/tree/master]
