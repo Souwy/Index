@@ -5,10 +5,10 @@ Notes are on the computer, everything else is on Github
 
 ## [JS-references](https://github.com/Souwy/JS-Reference)
 
-## [Error-log](https://github.com/Souwy/error-log)
+## [Error-log](https://github.com/Souwy/Error-log)
 
-## [Exercises](https://github.com/Souwy/exercises)
+## [Exercises](https://github.com/Souwy/Exercises)
 
-## [Porfolio](https://github.com/Souwy/portfolio)
+## [Porfolio](https://github.com/Souwy/Portfolio)
 
-## [Vocabulary](https://github.com/Souwy/vocabulary)
+## [Vocabulary](https://github.com/Souwy/Vocabulary)
