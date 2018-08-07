@@ -24,11 +24,11 @@ ___
 ## [JS-references](https://github.com/Souwy/JS-Reference)
 [Snippetstudy template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Snippetstudy-template.md)   
 * Human-helpers   
-* Primtives : https://github.com/Souwy/Snippetstudy-primitives   
+* Primtives: https://github.com/Souwy/Snippetstudy-primitives   
 * Different types of data   
 * Operators   
 * Variables   
-* Block scope   
+* Block scope: https://github.com/Souwy/Snippetstudy-scope-hoisted/tree/master   
 * Lexical scope   
 * Additionals   
 * Reference types   
