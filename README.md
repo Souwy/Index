@@ -10,9 +10,9 @@ Expansion: steps deconstructed like in pythontutor (step 1,2, 3, 4) for a single
 Snippedstudy = a whole piece of code, can be a single line expression, function, object, ...
    
 [repl.it](https://repl.it)   
-[Pythontutor)(http://www.pythontutor.com/javascript.html#mode=edit)
-[Sketchboard](https://sketchboard.me/bBacYnr2FYMw#/)
-[Parsonizer](https://elewa-academy.github.io/parsons/)
+[Pythontutor](http://www.pythontutor.com/javascript.html#mode=edit)   
+[Sketchboard](https://sketchboard.me/bBacYnr2FYMw#/)   
+[Parsonizer](https://elewa-academy.github.io/parsons/)   
 
 ___ 
 
