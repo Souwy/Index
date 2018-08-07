@@ -23,7 +23,7 @@ Expansion: steps deconstructed like in pythontutor (step 1,2, 3, 4) for a single
 [Elewa Wiki](https://github.com/elewa-academy/General-Resources/wiki)   
 [Write readable code](https://github.com/elewa-academy/readable-code)
    
-  * Walkthrough, tutorials, where to lookup an answer   
+  * Walkthrough, tutorials, where to look an answer up   
 [JS for cats](http://jsforcats.com/) - beginner. has cats, therefor must be in my index.   
 [Practical JavaScript (Shawnr)](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/) - beginner.   
 [JavaScript.info](https://javascript.info) - outstanding reference/tutorial. beginner to advanced.   
