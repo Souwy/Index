@@ -24,7 +24,7 @@ ___
 ## [JS-references](https://github.com/Souwy/JS-Reference)
 [Snippetstudy template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Snippetstudy-template.md)   
 * Human-helpers   
-* Primtives   
+* Primtives : https://github.com/Souwy/Snippetstudy-primitives   
 * Different types of data   
 * Operators   
 * Variables   
@@ -51,7 +51,8 @@ ___
 ## [Exercises](https://github.com/Souwy/Exercises)
 * JS-Reference   
 * Error-log   
-* Expansions   
+* Expansions
+  * primitive data types: https://github.com/Souwy/snippetstudy-primitives-expansions
 * Strategy-analysis   
 * Data-strategies   
 * Create-solutions   
