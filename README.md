@@ -2,18 +2,39 @@
 Keep this index as a pinned tab. ctrl+click on any link.
    
 * **Wiki of the class**: the logbook of the class. What were the subjects of each day, example, links, snippetstudies, etc.   
-* **JS-references**: where the snippetstudies go. Snippetstudy: use a piece of code to understand a concept in javascript.    
+* **JS-references**: where pieces of code are studied. Where snippetstudies go.
 * **Error-logs**: learn interesting concepts from an error   
 * **Exercises**: Parsonized pieces of code, expansions.   
    
+Snippetstudy: a whole piece of code, can be a single line expression, function, object, ...   use a piece of code to understand a concept in javascript.   
 Parsonized: deconstructed parts of a piece of code   
 Expansion: steps deconstructed like in pythontutor (step 1,2, 3, 4) for a single line of expressions.    
-Snippedstudy = a whole piece of code, can be a single line expression, function, object, ...
    
+* **Tools**   
 [repl.it](https://repl.it)   
 [Pythontutor](http://www.pythontutor.com/javascript.html#mode=edit)   
 [Sketchboard](https://sketchboard.me/bBacYnr2FYMw#/)   
-[Parsonizer](https://elewa-academy.github.io/parsons/)   
+[Parsonizer](https://elewa-academy.github.io/parsons/)  
+[Markdown Guide](https://guides.github.com/features/mastering-markdown/#examples)   
+   
+* **Resources**   
+  * Elewa stuff   
+[Elewa Precourse](https://elewa-academy.github.io/Precourse/)   
+[Elewa Wiki](https://github.com/elewa-academy/General-Resources/wiki)   
+[Write readable code](https://github.com/elewa-academy/readable-code)
+   
+  * Walkthrough, tutorials, where to lookup an answer   
+[JS for cats](http://jsforcats.com/) - beginner. has cats, therefor must be in my index.   
+[Practical JavaScript (Shawnr)](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/) - beginner.   
+[JavaScript.info](https://javascript.info) - outstanding reference/tutorial. beginner to advanced.   
+[Freecodecamp](https://www.freecodecamp.org/) - great tutorials.   
+[w3schools](https://www.w3schools.com/js/default.asp) - goto reference with great examples.   
+[MDN Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction) - great selection of examples to run.   
+   
+  * Where to find examples   
+[JS by Examples](https://github.com/bmkmanoj/js-by-examples) - quality examples & explanations, ideal for PythonTutor.   
+[Learn-JS](http://www.learn-js.org) - live, interactive demos.   
+[JS by examples](https://github.com/bmkmanoj/js-by-examples)
 
 ___ 
 
@@ -23,12 +44,11 @@ ___
 
 ## [JS-references](https://github.com/Souwy/JS-Reference)
 [Snippetstudy template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Snippetstudy-template.md)   
+[Reading code template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Reading-code-template.md)
 * Human-helpers   
-* Primtives: https://github.com/Souwy/Snippetstudy-primitives   
-* Different types of data   
-* Operators   
+* Primtives, coercion and operators  
 * Variables   
-* Block scope: https://github.com/Souwy/Snippetstudy-scope-hoisted/tree/master   
+* Block scope
 * Lexical scope   
 * Additionals   
 * Reference types   
@@ -49,10 +69,10 @@ ___
 ___
 
 ## [Exercises](https://github.com/Souwy/Exercises)
+[Creating an exercise](https://github.com/elewa-academy/creating-exercises) <!--- might change that later --->
 * JS-Reference   
 * Error-log   
 * Expansions
-  * primitive data types: https://github.com/Souwy/snippetstudy-primitives-expansions
 * Strategy-analysis   
 * Data-strategies   
 * Create-solutions   
