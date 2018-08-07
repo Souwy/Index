@@ -46,7 +46,7 @@ ___
 [Snippetstudy template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Snippetstudy-template.md)   
 [Reading code template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Reading-code-template.md)
 * Human-helpers   
-* Primtives, coercion and operators  
+* Primitives, coercion and operators  
 * Variables   
 * Block scope
 * Lexical scope   
