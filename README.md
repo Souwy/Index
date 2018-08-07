@@ -69,7 +69,7 @@ ___
 ___
 
 ## [Exercises](https://github.com/Souwy/Exercises)
-[Creating an exercise](https://github.com/elewa-academy/creating-exercises) <!--- might change that later --->
+[Creating an exercise](https://github.com/elewa-academy/creating-exercises) <!-- might change that later -->
 * JS-Reference   
 * Error-log   
 * Expansions
