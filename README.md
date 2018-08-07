@@ -1,4 +1,5 @@
 # Index: how does it work?
+Keep this index as a pinned tab. ctrl+click on any link.
    
 * **Wiki of the class**: the logbook of the class. What were the subjects of each day, example, links, snippetstudies, etc.   
 * **JS-references**: where the snippetstudies go. Snippetstudy: use a piece of code to understand a concept in javascript.    
