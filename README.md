@@ -1,7 +1,7 @@
 # Index: how does it work?
 Keep this index as a pinned tab. ctrl+click on any link.
    
-* [**Wiki of the class**](https://github.com/Souwy/Index/blob/master/README.md/##-Wiki-of-the-class): the logbook of the class. What were the subjects of each day, example, links, snippetstudies, etc.   
+* [**Wiki of the class**](#Wiki-of-the-class): the logbook of the class. What were the subjects of each day, example, links, snippetstudies, etc.   
 * **JS-references**: where pieces of code are studied. Where snippetstudies go.
 * **Error-logs**: learn interesting concepts from an error   
 * **Exercises**: Parsonized pieces of code, expansions.   
@@ -38,8 +38,7 @@ _Expansion_: steps deconstructed like in pythontutor (step 1,2, 3, 4) for a sing
 
 ___ 
 
-## [Wiki of the class](https://github.com/august-elewa-2018/calendar/wiki)
-
+## <a name="Wiki-of-the-class"></a> [Wiki of the class](https://github.com/august-elewa-2018/calendar/wiki)
 ___
 
 ## [JS-reference](https://github.com/Souwy/JS-Reference)
