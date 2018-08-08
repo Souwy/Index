@@ -42,7 +42,7 @@ ___
 
 ___
 
-## [JS-references](https://github.com/Souwy/JS-Reference)
+## [JS-reference](https://github.com/Souwy/JS-Reference)
 [Snippetstudy template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Snippetstudy-template.md)   
 [Reading code template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Reading-code-template.md)
 * Human-helpers   
