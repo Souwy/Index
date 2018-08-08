@@ -2,9 +2,9 @@
 Keep this index as a pinned tab. ctrl+click on any link.
    
 * [**Wiki of the class**](#Wiki-of-the-class): the logbook of the class. What were the subjects of each day, example, links, snippetstudies, etc.   
-* **JS-references**: where pieces of code are studied. Where snippetstudies go.
-* **Error-logs**: learn interesting concepts from an error   
-* **Exercises**: Parsonized pieces of code, expansions.   
+* [**JS-reference**](#JS-reference): where pieces of code are studied. Where snippetstudies go.
+* [**Error-logs**](#Error-logs): learn interesting concepts from an error   
+* [**Exercises**](#Exercises): Parsonized pieces of code, expansions.   
    
 _Snippetstudy_: a whole piece of code, can be a single line expression, function, object, ...   use a piece of code to understand a concept in javascript.   
 _Parsonized_: deconstructed parts of a piece of code   
@@ -41,7 +41,7 @@ ___
 ## <a name="Wiki-of-the-class"></a> [Wiki of the class](https://github.com/august-elewa-2018/calendar/wiki)
 ___
 
-## [JS-reference](https://github.com/Souwy/JS-Reference)
+## <a name="JS-reference"></a> [JS-reference](https://github.com/Souwy/JS-Reference)
 [Snippetstudy template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Snippetstudy-template.md)   
 [Reading code template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Reading-code-template.md)
 * Human-helpers   
@@ -59,7 +59,7 @@ ___
 
 ___
 
-## [Error-logs](https://github.com/Souwy/Error-logs)
+## <a name="Error-logs"></a> [Error-logs](https://github.com/Souwy/Error-logs)
 [Error-log template](https://raw.githubusercontent.com/Souwy/Error-logs/master/Error-log-template.md)
 * Syntax error   
 * Runtime error   
@@ -67,7 +67,7 @@ ___
 
 ___
 
-## [Exercises](https://github.com/Souwy/Exercises)
+## <a name="Exercises"></a> [Exercises](https://github.com/Souwy/Exercises)
 [Creating an exercise](https://github.com/elewa-academy/creating-exercises) <!-- might change that later -->
 * JS-Reference   
 * Error-log   
@@ -84,11 +84,11 @@ ___
 
 ___
 
-## [Porfolio](https://github.com/Souwy/Portfolio)
+## <a name="Portfolio"></a> [Porfolio](https://github.com/Souwy/Portfolio)
 
 ___
 
-## [Vocabulary](https://github.com/Souwy/Vocabulary)
+## <a name="Vocabulary"></a> [Vocabulary](https://github.com/Souwy/Vocabulary)
 
 ___
 
