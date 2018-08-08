@@ -6,9 +6,9 @@ Keep this index as a pinned tab. ctrl+click on any link.
 * **Error-logs**: learn interesting concepts from an error   
 * **Exercises**: Parsonized pieces of code, expansions.   
    
-Snippetstudy: a whole piece of code, can be a single line expression, function, object, ...   use a piece of code to understand a concept in javascript.   
-Parsonized: deconstructed parts of a piece of code   
-Expansion: steps deconstructed like in pythontutor (step 1,2, 3, 4) for a single line of expressions.    
+_Snippetstudy_: a whole piece of code, can be a single line expression, function, object, ...   use a piece of code to understand a concept in javascript.   
+_Parsonized_: deconstructed parts of a piece of code   
+_Expansion_: steps deconstructed like in pythontutor (step 1,2, 3, 4) for a single line of expressions.    
    
 * **Tools**   
 [repl.it](https://repl.it)   
