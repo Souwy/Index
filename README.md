@@ -1,6 +1,6 @@
 # Index: how does it work?
 Keep this index as a pinned tab. ctrl+click on any link.   
-[New repository](https://github.com/new?target=_blank) to add anything in each section. Don't forget to update one of the below sections with a link to the repo. 
+[New repository](https://github.com/new?target=_blank) to add anything in each section. Don't forget to update one of the below sections with a link to the repo.   
 [My Gist](https://gist.github.com/)
    
 * [**Wiki of the class**](#Wiki-of-the-class): the logbook of the class. What were the subjects of each day, example, links, snippetstudies, etc.   
