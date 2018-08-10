@@ -6,7 +6,9 @@ Keep this index as a pinned tab. ctrl+click on any link.
 * [**Wiki of the class**](#Wiki-of-the-class): the logbook of the class. What were the subjects of each day, example, links, snippetstudies, etc.   
 * [**JS-reference**](#JS-reference): where pieces of code are studied. Where snippetstudies go.
 * [**Error-logs**](#Error-logs): learn interesting concepts from an error   
-* [**Exercises**](#Exercises): Parsonized pieces of code, expansions.   
+* [**Exercises**](#Exercises): parsonized pieces of code, expansions. 
+* [**Portfolio**](#Portfolio): projects.
+* [**Vocabulary**](#Vocabulary): list of definitions.
    
 _Snippetstudy_: a whole piece of code, can be a single line expression, function, object, ...   use a piece of code to understand a concept in javascript.   
 _Parsonized_: deconstructed parts of a piece of code   
